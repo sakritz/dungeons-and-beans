@@ -12,7 +12,7 @@ tags: PCs, TheNightKnights, TheBeanBois, Bard
 
 ## Important Relations
 
-* Adventuring with [[Asurak]], [[Avaaros Wolfwalker]], [[Davelor]], [[Heilar]], [[Ruby]], [[Runa]], and [[Tia Thunderstep]]
+* Adventuring with [[Asurak]], [[The Bean Bois/Avaaros]], [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]], [[Ruby]], [[Runa]], and [[The Bean Bois/Tia]]
 * Brother of [[Dalee]]
-* Grew up in the same village as [[Heilar]], [[Syrja]] and [[Gormon]]
+* Grew up in the same village as [[The Bean Bois/Heilar]], [[Syrja]] and [[Gormon]]
 

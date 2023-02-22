@@ -8,7 +8,7 @@ tags: PCs, TheNightKnights, TheBeanBois, Wizard
 
 ## Important Relations
 
-* Adventuring with [[Asurak]], [[Avaaros Wolfwalker]], [[Davelor]], [[Heilar]], [[Reznak]], [[Ruby]], and [[Tia Thunderstep]], and, newly also [[Sealion]]
+* Adventuring with [[Asurak]], [[The Bean Bois/Avaaros]], [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]], [[Reznak]], [[Ruby]], and [[The Bean Bois/Tia]], and, newly also [[Sealion]]
 * Sherlock her familiar
 * 
 

@@ -9,5 +9,5 @@ type: weapons and magic shop
 
 ### Previous Experiences
 -  we bought some weapons and armor before facing the [[Aboleth]]
--  we were offered a shady deal to get the [[Elixir of Health]] for [[Tia Thunderstep|Tia]]
+-  we were offered a shady deal to get the [[Elixir of Health]] for [[The Bean Bois/Tia|Tia]]
 

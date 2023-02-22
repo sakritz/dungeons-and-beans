@@ -16,9 +16,9 @@ tags: monster, adversaries
 
 ## Important Relations
 * Controlled [[Gormon]] and  [[Cecilia Wolfwalker]]
-* Called [[Davelor]] a "traitor"
+* Called [[The Bean Bois/Davaelor]] a "traitor"
 * Might be associated with the [[Chainbreaker]]
-* Said something about the [[Raven Queen]] to [[Heilar]]
+* Said something about the [[Raven Queen]] to [[The Bean Bois/Heilar]]
  
 ## Abilities
 - can turn ethereal

@@ -2,11 +2,11 @@
 
 ### Book Club or Fight Club?
 - Having some time to spend until we head towards the woods in the morning, people are discussing what to do
-- [[Runa]] and [[Avaaros Wolfwalker|Avaaros]] (who feels guilty for accidentally hitting her unconscious in the last fight) head to [[Liza Vorn|Liza]]’s to see if she has more information on [[Ankhegs]]
+- [[Runa]] and [[The Bean Bois/Avaaros|Avaaros]] (who feels guilty for accidentally hitting her unconscious in the last fight) head to [[Liza Vorn|Liza]]’s to see if she has more information on [[Ankhegs]]
 - The others head to the lumberjacks to find a fight for Asurak and possibly talk to [[Jonas]] about the [[Ankhegs]]
 
 ### Attack in the temple
-- Arriving in the temple, [[Runa]] and [[Avaaros Wolfwalker|Avaaros]] find the room empty and the doors ajar, but [[Liza Vorn|Liza]] is nowhere to be seen
+- Arriving in the temple, [[Runa]] and [[The Bean Bois/Avaaros|Avaaros]] find the room empty and the doors ajar, but [[Liza Vorn|Liza]] is nowhere to be seen
 - Heading through the open door into her private chambers, they find Liza unconscious n the ground with strangling marks on her throat
 - After healing and waking her, Liza is confused and upset
 	- [[Cleff Shorkrus|Cleff]] came to her in a very distressed state, he seemed to want to run or hide and talked about [[Gila Tolmack|Gila]]. Trying to calm him down but also sensing that he carries guilt within him, Liza said that “everything has a price” and “we do what we have to”. Fearing that she knows the truth, Cleff panicked and attacked her
@@ -39,11 +39,11 @@
 
 ### When fight club goes wrong
 - Interrogating a grumpy [[Asurak]] in the tavern, we learn that he hears a voice in his head telling him to fight and to kill. The voice seems to originate from his [[Berserker's Axe]] (magic weapon, cursed?)
-- Hoping that sparring helps him get rid of the aggression, [[Tia Thunderstep|Tia]] agree to fistfight him
+- Hoping that sparring helps him get rid of the aggression, [[The Bean Bois/Tia|Tia]] agree to fistfight him
 - After being hit by Tia first, Asurak looses control and attacks Thia with his axe
 	- We then intervene in the fight and let Asurak fall asleep. While he sleeps, Avaaros hides his axe and the others hold him
 	- Waking up, Asurak fights to be reunited with his weapon
 	- We figure out that the axe is cursed and that curses can only be broken by remove curse or by creating distance causing disattunement (100 ft.?) 
-- [[Avaaros Wolfwalker|Avaaros]] brings the weapon to [[Liza Vorn|Liza]]
+- [[The Bean Bois/Avaaros|Avaaros]] brings the weapon to [[Liza Vorn|Liza]]
 - [[Asurak]] still wants to know where it is. As he heads to sleep, we have Sherlock watch him for the night
-- Before heading to sleep, [[Runa]] casts find familiar and [[Ruby]] and [[Tia Thunderstep|Tia]] write letters to their families
+- Before heading to sleep, [[Runa]] casts find familiar and [[Ruby]] and [[The Bean Bois/Tia|Tia]] write letters to their families

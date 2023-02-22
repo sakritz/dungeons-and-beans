@@ -25,18 +25,18 @@
 
 ### What happened to Gormon?
 - Back at the Eilirs’ house, [[Ruby]]finds boots that seem to once have been magic in a locked box and a ledger with scribbled notes in a locked drawer
-	- [[Runa]] and [[Avaaros Wolfwalker|Avaaros]] notice that the notes have both [[Gormon]]’s and [[Cecilia Wolfwalker|Cecilia]]’s handwriting
+	- [[Runa]] and [[The Bean Bois/Avaaros|Avaaros]] notice that the notes have both [[Gormon]]’s and [[Cecilia Wolfwalker|Cecilia]]’s handwriting
 - Borrowing a pearl from [[Syrja]], [[Runa]] identifies the mysterious potions as [[Potion of Water Breathing]] and the fuzzy balls as a [[Bag of Tricks]] that can be used to summon animals 
-- [[Avaaros Wolfwalker|Avaaros]] and [[Heilar]] meanwhile talk to [[People & Groups/Enren Eillir|Enren]], the sick sister, and hear again that Gormon changed a lot after being sick. Enren also says that he was talking in his sleep in agony the night after he got the medicine
+- [[The Bean Bois/Avaaros|Avaaros]] and [[The Bean Bois/Heilar]] meanwhile talk to [[People & Groups/Enren Eillir|Enren]], the sick sister, and hear again that Gormon changed a lot after being sick. Enren also says that he was talking in his sleep in agony the night after he got the medicine
 - Demonstrating the bag of tricks, Runa summons a giant goat into the house
 - Runa also reads up on the [[Herathis Mines]]'' history and mine equipment and finds out that the starosta of [[Deastok]], [[Deter McGinneas]], is responsible for the mines
 
 ### What will happen to Gormon?
 - Syrja asks the group to not kill her brother but to try to help him because that is not his normal self
-- The group tries to convince her to come along and help in talking him down, at first very unsuccessfully but eventually [[Tia Thunderstep|Tia]] manages to convince her to at least accompany them to [[Deastok]]
+- The group tries to convince her to come along and help in talking him down, at first very unsuccessfully but eventually [[The Bean Bois/Tia|Tia]] manages to convince her to at least accompany them to [[Deastok]]
 - She also brings a [[Book of Fairy Tales]] that [[Gormon]] used to read to his sister, in it is a tale of the [[Raven Queen]]’s origin story
-- Saying goodbye to his family, [[Heilar]] learns that his sister is getting worse and is talking in her sleep
+- Saying goodbye to his family, [[The Bean Bois/Heilar]] learns that his sister is getting worse and is talking in her sleep
 - Everybody leaves for [[Deastok]]
-- On the way, [[Tia Thunderstep|Tia]] further connects to [[Syrja]], we figure out that Syrja hates [[Heilar]]
+- On the way, [[The Bean Bois/Tia|Tia]] further connects to [[Syrja]], we figure out that Syrja hates [[The Bean Bois/Heilar]]
 
 

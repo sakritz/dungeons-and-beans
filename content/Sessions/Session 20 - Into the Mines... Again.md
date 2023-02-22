@@ -18,5 +18,5 @@
 - We start exploring the first level of the [[Herathis Mines]] and spot a chest in a dimly-lit cavern
 - Feeling the need to know what’s in the chest, we approach it and are attacked by [[Phase Spiders]] that can attack and then disappear. We kill 5 of these spiders and find [[Gauntlets of Ogre Power]] that [[Ruby]] is now wearing in the chest
 - Exploring a little further, we are soon again attacked by [[Bulettes]], huge beasts with claws burrowing up from below
-- After killing them, [[Avaaros Wolfwalker|Avaaros]] finds an [[Immovable Rod]]
+- After killing them, [[The Bean Bois/Avaaros|Avaaros]] finds an [[Immovable Rod]]
 - We find the tunnel to the second level and descend

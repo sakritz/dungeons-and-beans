@@ -16,7 +16,7 @@
 	* He has beefed up the Crownsguard, possibly with his own people
 	* No one really feels like the Crownsguard are effective (although the chief is fine)
 	* They have encountered the Lord before in the tavern "Zum Silbernen Beil".
-	* [[Avaaros Wolfwalker|Avaaros]] knows [[Lord Roseseeker|Roseseeker]]]], he destroyed the homeland
+	* [[The Bean Bois/Avaaros|Avaaros]] knows [[Lord Roseseeker|Roseseeker]]]], he destroyed the homeland
 
 ### Searching for clues in [[Vorgal Telsteg|Telsteg]]'s room
 * We inspect Telsteg's room to look for notes and results of his work
@@ -41,7 +41,7 @@
 >* Talked to Anslim, no leads
 
 * [[Gila Tolmack]] is a healer / apothecary
-* [[Avaaros Wolfwalker|Avaaros]] knows her
+* [[The Bean Bois/Avaaros|Avaaros]] knows her
 
 [[Runa]] knows a bit about the [[Federation of Finders]]:
 - Guild from [[Zadash]] (headquarters near the library).
@@ -75,7 +75,7 @@
 - [[Zara Crannock|Zara]] was at the apothecary just before disappearing, picking up herbs for her sick father (and put them on the tab)
 - Offers healing tinctures for the friendship price of 20 gold
 
-### [[Davelor]] talks to [[Gustaf]]
+### [[The Bean Bois/Davaelor]] talks to [[Gustaf]]
 - Strange guy, has to be bribed to talk
 - No similarities between the missing children or their families
 	- Many seem to live on the outskirts of the village?

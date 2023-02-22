@@ -18,7 +18,7 @@
 	- bruises that seem to come from the inside
 	- conspicuously inconspicuous person: man, ca 35, well-groomed, but inconspicuous
 - There are no footprints in the room, something flees out the window (no one sees it, presumably it was the shadow)
-- The [[Crownsguard]] arrives, [[Dalee]], [[Heilar]], [[Davelor]] and [[Avaaros Wolfwalker]] are basically suspicious and are not allowed to leave Wolfsglenn 
+- The [[Crownsguard]] arrives, [[Dalee]], [[The Bean Bois/Heilar]], [[The Bean Bois/Davaelor]] and [[The Bean Bois/Avaaros]] are basically suspicious and are not allowed to leave Wolfsglenn 
 - Melvin tells that the dead man is Mr. [[Vorgal Telsteg|Telsteg]] who has been there for about 5 days and was assigned by [[Liza Vorn|Liza]] to do some investigation
 - Some are thinking of leaving the Inn and staying at the Inn "Zum roten Apfel" with  [[Salem]] instead.
 
@@ -38,7 +38,7 @@
 
 
 ### Burial and Ambush in the Forest
-- [[Reznak]], [[Avaaros Wolfwalker|Avaaros]] [[Davelor]], [[Ruby]] and [[Heilar]] make it to the forest and bury the body
+- [[Reznak]], [[The Bean Bois/Avaaros|Avaaros]] [[The Bean Bois/Davaelor]], [[Ruby]] and [[The Bean Bois/Heilar]] make it to the forest and bury the body
 - On the way back they notice movement and discover a [[Blights|Vineblight]] attacking them
 	- [[Blights|Vineblights]] are living entanglements of vines, they do not bode well, are they related to dark magic?
 	- There is also a [[Blights|Twigblight]] and a [[Blights|Needleblight]] coming along and joining the fight

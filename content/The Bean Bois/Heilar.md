@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Heilar Caerdonel
 tags: PCs, TheNightKnights, TheBeanBois, Cleric
 ---
 **Wood-elven Cleric of the Raven Queen**
@@ -7,6 +7,6 @@ tags: PCs, TheNightKnights, TheBeanBois, Cleric
 
 ## Important Relations
 
-* Adventuring with [[Asurak]], [[Avaaros Wolfwalker]], [[Davelor]], [[Reznak]], [[Ruby]], [[Runa]], and [[Tia Thunderstep]] and, newly also [[Sealion]]
+* Adventuring with [[Asurak]], [[The Bean Bois/Avaaros]], [[The Bean Bois/Davaelor]], [[Reznak]], [[Ruby]], [[Runa]], and [[The Bean Bois/Tia]] and, newly also [[Sealion]]
 * Cleric of the [[Raven Queen]]
 

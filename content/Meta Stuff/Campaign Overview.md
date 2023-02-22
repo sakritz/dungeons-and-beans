@@ -2,14 +2,14 @@
 # The Bean Bois
 
 [[Asurak]]
-[[Avaaros Wolfwalker]]
-[[Davelor]]
-[[Heilar]]
+[[The Bean Bois/Avaaros]]
+[[The Bean Bois/Davaelor]]
+[[The Bean Bois/Heilar]]
 [[Reznak]]
 [[Ruby]]
 [[Runa]]
 [[Sealion]]
-[[Tia Thunderstep]]
+[[The Bean Bois/Tia]]
 
 
 # Arc 1: Corruption Everywhere

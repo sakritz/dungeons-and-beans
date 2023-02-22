@@ -8,4 +8,4 @@ type: Inn
 
 
 ### Previous Experiences
-* where [[Avaaros Wolfwalker|Avaaros]], [[Davelor]], and [[Tia Thunderstep|Tia]] had a brawl with [[Trent]]
+* where [[The Bean Bois/Avaaros|Avaaros]], [[The Bean Bois/Davaelor]], and [[The Bean Bois/Tia|Tia]] had a brawl with [[Trent]]

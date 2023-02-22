@@ -16,5 +16,5 @@ A stone has AC 24, 10 hit points, and resistance to all damage. It is considered
 Leadership. Your Charisma score increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head.
 
 ## Current Wielder
-- [[Davelor]]
+- [[The Bean Bois/Davaelor]]
 

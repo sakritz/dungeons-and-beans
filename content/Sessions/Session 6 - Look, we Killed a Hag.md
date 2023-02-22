@@ -4,7 +4,7 @@
 - Waking up in the [[Hag]]’s hut, we inspect its insides and surroundings a bit more
 - Looking at the [[Flesh Golem]], [[Gila Tolmack|Gila]] must have been dead for quite a while (so who was posing as Gila after that?)
 - [[Runa]] is able to translate [[Ruby]]’s tattoo that she got after taking a dagger called [[Fate's Grip]] from the hut: it says FOREVER BOUND and IN FATE’S GRIP in Abyssal
-- Inspecting her books, nothing seems unusual, mostly books in abyssal or sylvan about herbs and stuff. [[Tia Thunderstep|Tia]] takes one larger tomes that looks expensive
+- Inspecting her books, nothing seems unusual, mostly books in abyssal or sylvan about herbs and stuff. [[The Bean Bois/Tia|Tia]] takes one larger tomes that looks expensive
 - We take the [[Hag]]’s head as evidence (but leave the bodies in the hut) 
 
 ### Announcing the victory
@@ -24,7 +24,7 @@
 ### Celebrating in the [[Golden Comb Tavern & Inn|Golden Comb]]
 - Back at the Golden Comb, [[Asurak]] starts a drinking competition with [[Gustaf]], Teddy (a giant ogre that is working for Gustav), and some other patrons of the bar: we lose
 - We also play some truth or dare and learn a bit about each other
-	- [[Davelor]]’s necklace now has a pattern on it and seems to represent his path or destiny
-	- [[Heilar]] tried to kill himself and was saved by the [[Raven Queen]] which is why he is her follower
+	- [[The Bean Bois/Davaelor]]’s necklace now has a pattern on it and seems to represent his path or destiny
+	- [[The Bean Bois/Heilar]] tried to kill himself and was saved by the [[Raven Queen]] which is why he is her follower
 	- [[Ruby]] flirts with Gustaf to steal his money on a dare from Davelor
 	- Tia beats Asurak in an arm wrestling match on his dare

@@ -12,5 +12,5 @@ wielder: Runa, Avaaros, Davelor, Heilar
 - 
 
 ## Current Wielder
-- [[Runa]], [[Avaaros Wolfwalker|Avaaros]], [[Davelor]], [[Heilar]]
+- [[Runa]], [[The Bean Bois/Avaaros|Avaaros]], [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]]
 

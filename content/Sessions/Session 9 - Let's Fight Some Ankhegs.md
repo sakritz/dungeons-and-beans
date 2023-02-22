@@ -4,7 +4,7 @@
 - After casting the Find Familiar spell last night, [[Runa]] discovers that Sherlock is her familiar
 - She learns how to look through his eyes and thereby sees her scars for the first time
 - Transfixed by the view, she stares at herself for a long time
-- [[Tia Thunderstep|Tia]] and [[Ruby]] send their letters to their families
+- [[The Bean Bois/Tia|Tia]] and [[Ruby]] send their letters to their families
 
 ### Meeting the Lumberjacks
 - Arriving at the lumberjack camp, the Night Knights see a series of log cabins, a large tent, and a shack
@@ -13,7 +13,7 @@
 - In the last Ankheg attack being the ponds, one of the lumberjacks, [[Check Chheu]], was taken by them (seemingly alive)
 
 ### Into the Woods
-- Making their way into the woods, the Night Knigts are unbothered for the first hours of the journey. [[Asurak]], [[Avaaros Wolfwalker|Avaaros]], and [[Ruby]] are taking the front, while [[Runa]] is sitting on [[Tia Thunderstep|Tia]]'s shoulders and scouting through Sherlock 
+- Making their way into the woods, the Night Knigts are unbothered for the first hours of the journey. [[Asurak]], [[The Bean Bois/Avaaros|Avaaros]], and [[Ruby]] are taking the front, while [[Runa]] is sitting on [[The Bean Bois/Tia|Tia]]'s shoulders and scouting through Sherlock 
 - They encounter some fallen-over trees which seem to have been dug up and try to lure out the [[Ankhegs]] at this point, but nothing happens
 
 ### The Bear and the Ankhegs

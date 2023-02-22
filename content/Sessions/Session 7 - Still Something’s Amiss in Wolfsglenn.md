@@ -18,7 +18,7 @@
 	- “that fucking bitch”
 - He says that he is in big trouble and no one can help him
 - [[Runa]] gathers that he know his daughter is save but has a secret about having done something bad that he wouldn’t tell anyone
-- Even being charmed by [[Avaaros Wolfwalker|Avaaros]], he does not yield
+- Even being charmed by [[The Bean Bois/Avaaros|Avaaros]], he does not yield
 
 ### Inspecting the apothecary again
 - Looking for more clues in the apothecary, we find that it is not locked anymore
@@ -30,7 +30,7 @@
 ### An audience with [[Lord Roseseeker]]
 - Determined to find out more about Lord Roseseeker, we head towards Roseseeker Manor
 - It is a large estate surrounded by a fence and secured by guards
-- We decide to officially pay a visit, introduce ourself and offer our service ([[Avaaros Wolfwalker|Avaaros]] turns into a dog to avoid being recognized by [[Trent]])
+- We decide to officially pay a visit, introduce ourself and offer our service ([[The Bean Bois/Avaaros|Avaaros]] turns into a dog to avoid being recognized by [[Trent]])
 	- We are lead in by the guards, one of them is [[Steve]], a rather young and approachable human guard
 	- The manor is a two-story building which is currently being renovated but looks impressive
 	- We see at least two guards at the gates, two at the entrance and three walking the perimeters, all seem experienced and skilled
@@ -41,7 +41,7 @@
 - Reznak also notices that [[Lord Roseseeker|Roseseeker]] has a skull on a chain on his belt that he hides, the skull seems to be of a child
 - Upon offering our services, [[Lord Roseseeker|Roseseeker]] hires us to clear an area of the woods of the [[Ankhegs]] that have been attacking his workers for 50 gold for each of us
 - We get a [[Map of Roseseeker's Forest|map of the woods]] ([[Runa]] has it) and are told that the foreman [[Jonas]] could tell us more about the [[Ankhegs]] which partly seemed unusual
-- [[Trent]] generally doesn’t trust us (especially as we brought [[Tia Thunderstep|Tia]] who was part of the barfight)
+- [[Trent]] generally doesn’t trust us (especially as we brought [[The Bean Bois/Tia|Tia]] who was part of the barfight)
 
 ### Shopping at [[Gustaf]]’s
 - On the way back, we stop at Gustaf’s general store for some shopping

@@ -10,10 +10,10 @@
 	- #question Whitestone is very rare and usually not found here in this area
 	- A pound of Residuum is worth about 15.000 gold pieces
 	- The parchments also reveal that the mine was generally referred to as a coalmine, thus probably hiding the presence of Whitestone in there
-	- The receipt has a sigil at the bottom that [[Avaaros Wolfwalker|Avaaros]] recognizes as that of the [[Lord Roseseeker|Roseseeker]] family => he probably knows about the Whitestone
+	- The receipt has a sigil at the bottom that [[The Bean Bois/Avaaros|Avaaros]] recognizes as that of the [[Lord Roseseeker|Roseseeker]] family => he probably knows about the Whitestone
 - There is also some boxes in the room in which [[Ruby]] finds a locked crate. However, when picking the lock, the crate is empty
 - Runa, however, looks at a mirror in the room that is opposite of Ruby and the crate. Inspecting is, she doesn’t find anything interesting at first but when she puts her hand against it on a hunch, her hand enters the [[mirror]]
-	- With [[Tia Thunderstep|Tia]]s help, [[Runa]] sees that “behind” the mirror, there is a mirror version of the room they are in
+	- With [[The Bean Bois/Tia|Tia]]s help, [[Runa]] sees that “behind” the mirror, there is a mirror version of the room they are in
 	- Tia and Runa enter and find two bottles of reddish liquid in the crate in the mirror room, which are a [[greater healing potion]] and a [[superior healing potion]]
 	- To better understand the mirror room, Tia takes a pen and breaks another one
 	- Trying to leave, Tia and Runa then find that the mirror has become solid and doesn’t let them pass

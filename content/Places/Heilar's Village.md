@@ -20,10 +20,10 @@ tags: places
 ## People
 - [[Oland Kelvaris]] - head of the village
 - [[Numbra Kelvaris]]
-- [[Ithil Kerdinel]]
-- [[Haldir Kerdinel]]
-- [[Isandra Kerdinel]]
+- [[People & Groups/Ithil Caerdonel]]
+- [[People & Groups/Haldir Caerdonel]]
+- [[People & Groups/Isandra Caerdonel]]
 - [[Lyra and Fhaonik Eillir]]
-- [[Heilar]]
+- [[The Bean Bois/Heilar]]
 - [[Dalee]]
 - [[Reznak]]

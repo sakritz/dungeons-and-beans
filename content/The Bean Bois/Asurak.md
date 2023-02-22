@@ -12,5 +12,5 @@ tags: PCs, TheNightKnights, TheBeanBois, Barbarian
 
 ## Important Relations
 
-* Adventuring with [[Avaaros Wolfwalker]], [[Davelor]], [[Heilar]], [[Reznak]], [[Ruby]], [[Runa]], and [[Tia Thunderstep]] and, newly also [[Sealion]]
+* Adventuring with [[The Bean Bois/Avaaros]], [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]], [[Reznak]], [[Ruby]], [[Runa]], and [[The Bean Bois/Tia]] and, newly also [[Sealion]]
 

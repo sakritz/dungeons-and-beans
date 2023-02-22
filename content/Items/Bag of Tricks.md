@@ -24,5 +24,5 @@ d8 	Creature
 8 	Brown Bear
 
 ## Current Wielder
-- [[Avaaros Wolfwalker|Avaaros]]
+- [[The Bean Bois/Avaaros|Avaaros]]
 

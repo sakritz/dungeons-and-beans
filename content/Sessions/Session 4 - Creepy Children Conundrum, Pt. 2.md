@@ -28,12 +28,12 @@
 - Our party reunites in the [[Golden Comb Tavern & Inn|Golden Comb]] only to find out that all of us have gotten into some kind of fight
 - We exchange information
 - [[Ruby]] breaks down unconscious and seems to have been poisoned by the goo
-- [[Heilar]] knows that silver bell flower might help and goes with [[Tia Thunderstep|Tia]] and [[Avaaros Wolfwalker|Avaaros]] to the apothecary to retrieve it
+- [[The Bean Bois/Heilar]] knows that silver bell flower might help and goes with [[The Bean Bois/Tia|Tia]] and [[The Bean Bois/Avaaros|Avaaros]] to the apothecary to retrieve it
 - [[Melvin]] the barkeep tells us that [[Alma]], the young daughter of woodworker [[Cleff Shorkrus]] has been sick supposedly also poisoned for a long time but has recovered recently
 - [[Runa]], [[Reznak]], and [[Asurak]] go to talk to Cleff
 
 ### Shadows in the Apothecary
-•	[[Avaaros Wolfwalker|Avaaros]], [[Heilar]] and [[Tia Thunderstep|Tia]] arrive at the apothecary finding the door open but the shop empty, [[Gila Tolmack|Gila]] nowhere to be found
+•	[[The Bean Bois/Avaaros|Avaaros]], [[The Bean Bois/Heilar]] and [[The Bean Bois/Tia|Tia]] arrive at the apothecary finding the door open but the shop empty, [[Gila Tolmack|Gila]] nowhere to be found
 •	A [[Shadow]] appears and attacks them
 •	They escape out into the open, the shadow follows but seems to be more vulnerable (i.e., concrete) in the sunlight
 •	They kill the [[Shadow]], it disperses without a trace

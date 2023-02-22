@@ -5,5 +5,5 @@ role: Healer, Mother of [[Avaaros Wolfwalker]]
 ---
 
 ## Important Relations
-* Her son, [[Avaaros Wolfwalker]]
+* Her son, [[The Bean Bois/Avaaros]]
 * [[Gila Tolmack|Gila]], a good friend and apothecary

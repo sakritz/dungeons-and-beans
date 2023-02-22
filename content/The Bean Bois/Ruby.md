@@ -11,5 +11,5 @@ tags: PCs, TheNightKnights, TheBeanBois, Rogue
 
 ### Important Relations
 
-* Adventuring with [[Asurak]], [[Avaaros Wolfwalker]], [[Davelor]], [[Heilar]], [[Reznak]], [[Runa]], and [[Tia Thunderstep]] and, newly also [[Sealion]]
+* Adventuring with [[Asurak]], [[The Bean Bois/Avaaros]], [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]], [[Reznak]], [[Runa]], and [[The Bean Bois/Tia]] and, newly also [[Sealion]]
 

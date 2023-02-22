@@ -5,7 +5,7 @@
 - The whole group meets up in the [[Golden Comb Tavern & Inn|Golden Comb]]
 - We exchange what we have encounter and discuss what to do next
 - [[Ruby]] has been healed and is fine again
-- [[Davelor]]’s head wound disappeared, he says he had a weird dream, and asks the barkeep for a Blacksmith (which are the Crannochs)
+- [[The Bean Bois/Davaelor]]’s head wound disappeared, he says he had a weird dream, and asks the barkeep for a Blacksmith (which are the Crannochs)
 
 ### Another missing child
 - While we are trying to decide what to do next, [[Melvin]] storms into the Inn and is looking for his daughter, [[Callie]] (5 years old, halfling child, light brown hair, very smart and independent)
@@ -14,7 +14,7 @@
 
 ### Into the woods
 - We head into the woods, it is still very early and dark outside
-- We find some snatched twigs pointing us some directions (confirmed by a bird that [[Avaaros Wolfwalker|Avaaros]] talks to)
+- We find some snatched twigs pointing us some directions (confirmed by a bird that [[The Bean Bois/Avaaros|Avaaros]] talks to)
 - The woods are hard to navigate, due to very thick fog
 - Suddenly, [[Shadow]] appear and attack us, we kill one of them, the other disappears
 - As the fog then lifts we see a hut on a small clearing in the woods

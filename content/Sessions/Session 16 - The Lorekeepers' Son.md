@@ -1,17 +1,17 @@
 2022-09-22
 
 ### A weird awakening
-- After realizing that everyone except [[Heilar]] had the same dream, the party decides that some research is due before facing the [[Herathis Mines]] again, so they want to visit the villages lorekeeper for some answers
+- After realizing that everyone except [[The Bean Bois/Heilar]] had the same dream, the party decides that some research is due before facing the [[Herathis Mines]] again, so they want to visit the villages lorekeeper for some answers
 - Before going there, Heilar frees Davelor and Asurak of their curses
-- In a quiet moment, [[Avaaros Wolfwalker|Avaaros]] shows [[Runa]] the diary of his mother [[Cecilia Wolfwalker|Cecilia]] that is mostly written in Abyssal
-	- First part is written in common and describes normal day-to-day stuff like getting supplies but also the fight with [[Avaaros Wolfwalker|Avaaros]] about whether or not to fight to protect the forest (that led him to leave)
+- In a quiet moment, [[The Bean Bois/Avaaros|Avaaros]] shows [[Runa]] the diary of his mother [[Cecilia Wolfwalker|Cecilia]] that is mostly written in Abyssal
+	- First part is written in common and describes normal day-to-day stuff like getting supplies but also the fight with [[The Bean Bois/Avaaros|Avaaros]] about whether or not to fight to protect the forest (that led him to leave)
 	- After that, more and more Abyssal creeps in
 	- She describes brewing potions, crafting spellfocuses, making magic ink and other magic items
 	- There are also arcane symbols in Abyssal
 	- One of the [[Potion of Water Breathing|potions]] described seems similar to what we found in the [[Hag]]’s hut and after the dream
 	- The ink used to write the diary is not normal ink but doesn’t seem to possess magical properties anymore
 	- (we think maybe she got possessed by something because to the best of our knowledge she did not know Abyssal)
-- [[Avaaros Wolfwalker|Avaaros]] still believes that his mother wouldn’t hurt us and that we need to save her
+- [[The Bean Bois/Avaaros|Avaaros]] still believes that his mother wouldn’t hurt us and that we need to save her
 - [[Runa]] promises to do her best to help and also does not tell the rest of the party about the diary
 
 ### Meeting the Lorekeeper

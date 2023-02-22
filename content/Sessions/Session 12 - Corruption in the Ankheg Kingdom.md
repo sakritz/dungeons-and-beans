@@ -4,7 +4,7 @@
 - The Night Knights attempt to take a long rest in the office in the cave
 - Because the rest of the party are still very much charmed by the mushroom people, [[Ruby]] and [[Runa]] decide to be part of the watches and also keep an eye on their friends
 - The first watch goes by uneventful for [[Tia]] and [[Runa]]
-- During the second watch, [[Avaaros Wolfwalker|Avaaros]] notices some noises in front of the locked office door
+- During the second watch, [[The Bean Bois/Avaaros|Avaaros]] notices some noises in front of the locked office door
 - Due to some loud noises from the sleeping party members, the noises seem to come closer, and vibrations are felt
 - We quickly wake up and prepare for an [[Ankhegs|Ankheg]] attack: Tia opens the locked door to make space for fighting, we position ourselves
 - Three Ankhegs appear: one burrowing inside the office, two outside on the space before the chasm

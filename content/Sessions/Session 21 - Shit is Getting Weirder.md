@@ -12,11 +12,11 @@
 - We descend to the third level, which we recognize from our dream
 - As we discuss what to do, a weird dwarven figure starts approaching us, moving in a weird dragging way
 	- It does not respond to any communication and just slowly drags closer
-	- [[Tia Thunderstep|Tia]] and [[Davelor]] eventually get charmed
+	- [[The Bean Bois/Tia|Tia]] and [[The Bean Bois/Davaelor]] eventually get charmed
 	- [[Asurak]] tries to touch it and takes psychic damage
 	- There is a weird string attached to the dwarf’s back that is impervious to damage
 	- Through trial-and-error we finally figure out that it is very afraid of fire
 	- A huge amorphous blob (like gelatin, with faces swimming on the inside) appears - an [[Oblex]]
 	- It is able to incapacitate people and steal their memories, but we manage to kill it
-- [[Avaaros Wolfwalker|Avaaros]] finds an [[Ioun Stone of Leadership]] that we give to [[Davelor]]
+- [[The Bean Bois/Avaaros|Avaaros]] finds an [[Ioun Stone of Leadership]] that we give to [[The Bean Bois/Davaelor]]
 - We take a short rest and then head down the spiral tunnel from our dream where we are greeted by mist

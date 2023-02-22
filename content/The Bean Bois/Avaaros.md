@@ -1,5 +1,5 @@
 ---
-aliases: Avaaros
+aliases: Avaaros Wolfwalker
 tags: PCs, TheNightKnights, TheBeanBois, Druid
 ---
 **Half-elven Druid**
@@ -13,5 +13,5 @@ tags: PCs, TheNightKnights, TheBeanBois, Druid
 
 ## Important Relations
 
-* Adventuring with [[Asurak]], [[Davelor]], [[Heilar]], [[Reznak]], [[Ruby]], [[Runa]], and [[Tia Thunderstep]], and, newly also [[Sealion]]
+* Adventuring with [[Asurak]], [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]], [[Reznak]], [[Ruby]], [[Runa]], and [[The Bean Bois/Tia]], and, newly also [[Sealion]]
 

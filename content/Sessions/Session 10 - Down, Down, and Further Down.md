@@ -2,7 +2,7 @@
 
 ### What Kind of Mine is This?
 - After taking a rest in the cave, the Night Knights inspect the cave some more
-- [[Runa]] and [[Tia Thunderstep|Tia]] had already discovered some old pickaxes and shovels as well as a mysterious type of stone during their night shift
+- [[Runa]] and [[The Bean Bois/Tia|Tia]] had already discovered some old pickaxes and shovels as well as a mysterious type of stone during their night shift
 	- The stone is shiny, foggy, and seemingly naturally occurs in this cave
 	- No one has seen this kind of stone before
 	- It could be valuable
@@ -12,7 +12,7 @@
 	- Runa knows that mines can only be exploited with the express permission of the Crown - so it would make sense if [[Lord Roseseeker|Roseseeker]] wants to keep the mine a secret
 
 ### Deeper into the Mine
-- [[Ruby]] and [[Avaaros Wolfwalker|Avaaros]] scout one of the two tunnel entrances for the group
+- [[Ruby]] and [[The Bean Bois/Avaaros|Avaaros]] scout one of the two tunnel entrances for the group
 	- They climb some rubble and find tracks
 	- Following them, they enter a cave in which they discover cocoons – seven empty and three still developing ones
 	- Avaaros cuts open one cocoon and discovers them to be [[Ankhegs|Ankheg]] cocoons

@@ -7,4 +7,4 @@ tags: PCs, TheNightKnights, TheBeanBois, Warlock
 
 ## Important Relations
 
-* Adventuring with [[Asurak]], [[Avaaros Wolfwalker]], [[Davelor]], [[Heilar]], [[Reznak]], [[Ruby]], [[Runa]], and [[Tia Thunderstep]]
+* Adventuring with [[Asurak]], [[The Bean Bois/Avaaros]], [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]], [[Reznak]], [[Ruby]], [[Runa]], and [[The Bean Bois/Tia]]

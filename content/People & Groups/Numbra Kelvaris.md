@@ -4,7 +4,7 @@ tags: NPCs
 role: 
 ---
 
-- lives in the village [[Heilar]] grew up in
+- lives in the village [[The Bean Bois/Heilar]] grew up in
 - got sick because of the corrupted water
 
 ## Important Relations

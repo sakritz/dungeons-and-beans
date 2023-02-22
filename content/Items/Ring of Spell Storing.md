@@ -11,5 +11,5 @@ wielder: Heilar
 - can store up to 5 levels worth of spells at a time
 
 ## Current Wielder
-- [[Heilar]] gave it to his mother [[Ithil Kerdinel|Ithil]] to save his sister [[Isandra Kerdinel|Isandra]]
+- [[The Bean Bois/Heilar]] gave it to his mother [[People & Groups/Ithil Caerdonel|Ithil]] to save his sister [[People & Groups/Isandra Caerdonel|Isandra]]
 

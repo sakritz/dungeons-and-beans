@@ -1,5 +1,5 @@
 ---
-aliases: Tia
+aliases: Tia Thunderstep
 tags: PCs, TheNightKnights, TheBeanBois, Fighter
 ---
 **Half-orc Champion Fighter**
@@ -13,6 +13,6 @@ tags: PCs, TheNightKnights, TheBeanBois, Fighter
 
 ## Important Relations
 
-* Adventuring with [[Asurak]], [[Avaaros Wolfwalker]], [[Davelor]], [[Heilar]], [[Reznak]], [[Ruby]], and [[Runa]], and, newly also [[Sealion]]
+* Adventuring with [[Asurak]], [[The Bean Bois/Avaaros]], [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]], [[Reznak]], [[Ruby]], and [[Runa]], and, newly also [[Sealion]]
 * Had a budding romance with [[Syrja]] 
 
