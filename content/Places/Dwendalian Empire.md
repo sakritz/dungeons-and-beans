@@ -1,3 +1,8 @@
+---
+aliases: 
+tags: countries
+---
+
 - part of Wildemount
 - Current King is Bertram Dwendal
 

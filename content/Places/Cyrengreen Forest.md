@@ -1,3 +1,8 @@
+---
+aliases: 
+tags: places
+---
+
 - Forest near [[Wolfsglenn]]
 
 

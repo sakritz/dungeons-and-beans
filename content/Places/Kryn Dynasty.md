@@ -1,3 +1,8 @@
+---
+aliases: 
+tags: countries
+---
+
 - part of Wildemount
 
 ### Important Relations
