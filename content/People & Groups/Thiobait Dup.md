@@ -1,6 +1,8 @@
 ---
 aliases: Thiobait
-tags: NPCs, Wolfsglenn
+tags: 
+- NPCs
+- Wolfsglenn
 role: Child
 ---
 

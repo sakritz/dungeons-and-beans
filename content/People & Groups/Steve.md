@@ -1,6 +1,9 @@
 ---
 aliases: 
-tags: NPCs, Wolfsglenn
+tags: 
+- NPCs
+- Allies
+- Wolfsglenn
 role: Guard
 ---
 

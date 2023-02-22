@@ -1,6 +1,9 @@
 ---
 aliases: Cleff
-tags: NPCs, Adversaries, Wolfsglenn
+tags: 
+- NPCs
+- Adversaries
+- Wolfsglenn
 role: Owner of a Woodshop
 ---
 

@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: monster, adversaries
+tags: 
+- monster
+- adversaries
 ---
 
 ![[638063901618639290.png | 300]]

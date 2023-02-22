@@ -1,6 +1,8 @@
 ---
 aliases: Moira
-tags: NPCs, Wolfsglenn
+tags: 
+- NPCs
+- Wolfsglenn
 role: Child
 ---
 

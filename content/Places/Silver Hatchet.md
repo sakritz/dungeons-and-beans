@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: shops, Wolfsglenn
+tags: 
+- shops
+- Wolfsglenn
 type: Inn
 ---
 

@@ -1,6 +1,9 @@
 ---
 aliases: 
-tags: NPCs, Warlock Adversaries
+tags: 
+- NPCs
+- Warlock
+- Adversaries
 role: 
 ---
 **Wood elven Warlock (?)**

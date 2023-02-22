@@ -1,6 +1,10 @@
 ---
 aliases: Residuum
-tags: item, magical, place, inventory
+tags: 
+- item
+- magical
+- inventory
+- place
 wielder: Tia
 ---
 

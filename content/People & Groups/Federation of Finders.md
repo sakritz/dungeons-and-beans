@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: organizations, Zadash
+tags: 
+- organizations
+- Zadash
 ---
 
 - Guild from [[Zadash]] 

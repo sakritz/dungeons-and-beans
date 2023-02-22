@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: NPCs, Wolfsglenn
+tags: 
+- NPCs
+- Wolfsglenn
 role: Owner of the [[Golden Comb Tavern & Inn|Golden Comb]]
 ---
 

@@ -1,6 +1,8 @@
 ---
 aliases: Algar
-tags: NPCs, Wolfsglenn
+tags: 
+- NPCs
+- Wolfsglenn
 role: Captain of the Crownsguard
 ---
 

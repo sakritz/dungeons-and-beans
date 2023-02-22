@@ -1,6 +1,8 @@
 ---
 aliases: Isandra
-tags: NPCs, family
+tags: 
+- NPCs
+- family
 role: Sister of [[Heilar]]
 ---
 

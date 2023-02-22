@@ -1,6 +1,10 @@
 ---
 aliases: 
-tags: places, shops, Deastok, magical
+tags: 
+- places
+- shops
+- Deastok
+- magical
 type: weapons and magic shop
 ---
 

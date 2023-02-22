@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: item, magical
+tags: 
+- item
+- magical
 ---
 
 - A cursed axe shortly wielded by [[Asurak]]

@@ -1,6 +1,8 @@
 ---
 aliases: Ithil
-tags: NPCs, family
+tags: 
+- NPCs
+- family
 role: mother of [[Heilar]]
 ---
 

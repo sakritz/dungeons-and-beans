@@ -1,6 +1,8 @@
 ---
 aliases: Golden Comb, Golden Comb Tavern
-tags: shops, Wolfsglenn
+tags: 
+- shops
+- Wolfsglenn
 type: Inn
 ---
 

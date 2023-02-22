@@ -6,3 +6,4 @@ TABLE WITHOUT ID
   wielder AS "Current Wielder"
 FROM #inventory   
 ```
+

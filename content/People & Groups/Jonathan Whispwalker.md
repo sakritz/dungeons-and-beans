@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: NPCs, Deastok
+tags: 
+- NPCs
+- Deastok
 role: Shopkeeper
 ---
 

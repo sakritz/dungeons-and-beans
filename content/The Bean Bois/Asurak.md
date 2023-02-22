@@ -1,6 +1,10 @@
 ---
 aliases: 
-tags: PCs, TheNightKnights, TheBeanBois, Barbarian
+tags: 
+- PCs
+- TheNightKnights
+- TheBeanBois
+- Barbarian
 ---
 **Half-Orc Barbarian**
 ![[Pasted image 20221209174859.png]]

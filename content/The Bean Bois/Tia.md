@@ -1,6 +1,11 @@
 ---
 aliases: Tia Thunderstep
-tags: PCs, TheNightKnights, TheBeanBois, Fighter
+tags: 
+- PCs
+- TheNightKnights
+- TheBeanBois
+- Fighter
+- Champion
 ---
 **Half-orc Champion Fighter**
 

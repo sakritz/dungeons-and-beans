@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: places, Deastok
+tags: 
+- places
+- Deastok
 ---
 
 - a city in the [[Dwendalian Empire]] near the [[Cyrengreen Forest]] and the [[Herathis Mines]]

@@ -1,6 +1,10 @@
 ---
 aliases: 
-tags: PCs, TheNightKnights, TheBeanBois, Warlock
+tags:
+- PCs
+- TheNightKnights
+- TheBeanBois
+- Warlock
 ---
 **Kenku Warlock**
 

@@ -1,6 +1,9 @@
 ---
 aliases: 
-tags: places, shops, Deastok
+tags: 
+- places
+- shops
+- Deastok
 type: Inn
 ---
 

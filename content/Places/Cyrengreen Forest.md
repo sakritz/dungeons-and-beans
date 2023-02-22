@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: places
+tags: 
+- places
 ---
 
 - Forest near [[Wolfsglenn]]

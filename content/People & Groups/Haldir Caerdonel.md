@@ -1,6 +1,8 @@
 ---
 aliases: Haldir
-tags: NPCs, family
+tags: 
+- NPCs
+- family
 role: Father of [[Heilar]]
 ---
 

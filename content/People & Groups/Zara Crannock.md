@@ -1,6 +1,8 @@
 ---
 aliases: Zara
-tags: NPCs, Wolfsglenn
+tags: 
+- NPCs
+- Wolfsglenn
 role: Child
 ---
 

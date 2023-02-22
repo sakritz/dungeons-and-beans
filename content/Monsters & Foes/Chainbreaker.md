@@ -1,4 +1,4 @@
 ---
 aliases: 
-tags: Adversaries
+tags: adversaries
 ---

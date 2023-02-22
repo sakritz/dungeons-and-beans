@@ -1,6 +1,8 @@
 ---
 aliases: Emmet, Anslim
-tags: NPCs, Wolfsglenn
+tags: 
+- NPCs
+- Wolfsglenn
 role: Starosta
 ---
 

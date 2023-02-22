@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: NPCs, Wolfsglenn
+tags: 
+- NPCs
+- Wolfsglenn
 role: Daughter of [Melvin](People%20&%20Groups/Melvin.md)
 ---
 

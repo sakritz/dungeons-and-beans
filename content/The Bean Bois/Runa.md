@@ -1,6 +1,10 @@
 ---
 aliases: 
-tags: PCs, TheNightKnights, TheBeanBois, Wizard
+tags:
+- PCs
+- TheNightKnights
+- TheBeanBois
+- Wizard
 ---
 **Gnome Wizard of the School of Illusion**
 

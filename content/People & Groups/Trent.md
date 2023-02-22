@@ -1,6 +1,9 @@
 ---
 aliases: 
-tags: NPCs, Adversaries, Wolfsglenn
+tags: 
+- NPCs
+- Adversaries
+- Wolfsglenn
 role: Right hand of [[Lord Roseseeker]]
 ---
 

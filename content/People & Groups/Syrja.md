@@ -1,6 +1,9 @@
 ---
 aliases: 
-tags: NPCs, Allies, Ranger 
+tags: 
+- NPCs
+- Allies
+- Ranger 
 ---
 
 ## Important Relations

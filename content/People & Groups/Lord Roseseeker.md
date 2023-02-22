@@ -1,6 +1,9 @@
 ---
 aliases: Roseseeker, Lord Barion Roseseeker
-tags: NPCs, Adversaries, Wolfsglenn
+tags: 
+- NPCs
+- Adversaries
+- Wolfsglenn
 role: Noble, Wood-Business
 ---
 

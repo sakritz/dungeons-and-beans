@@ -1,6 +1,10 @@
 ---
 aliases: Heilar Caerdonel
-tags: PCs, TheNightKnights, TheBeanBois, Cleric
+tags: 
+- PCs
+- TheNightKnights
+- TheBeanBois
+- Cleric
 ---
 **Wood-elven Cleric of the Raven Queen**
 ![[Pasted image 20221209174702.png]]

@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: NPCs, Deatok
+tags: 
+- NPCs
+- Deatok
 role: Cleric of Bahamut
 ---
 

@@ -1,6 +1,9 @@
 ---
 aliases: 
-tags: item, magical, inventory
+tags: 
+- item
+- magical
+- inventory
 wielder: each of the Bean Bois has one or two
 ---
 

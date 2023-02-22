@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: item, inventory
+tags: 
+- item
+- inventory
 wielder: Runa
 ---
 

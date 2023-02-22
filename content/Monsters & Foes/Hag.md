@@ -1,6 +1,9 @@
 ---
 aliases: Night Hag, Hags
-tags: monster, adversaries, Wolfsglenn
+tags: 
+- monster
+- adversaries
+- Wolfsglenn
 ---
 
 ![[638062177695355747.png |300]]

@@ -1,6 +1,10 @@
 ---
 aliases: 
-tags: PCs, TheNightKnights, TheBeanBois, Bard
+tags:
+- PCs
+- TheNightKnights
+- TheBeanBois
+- Bard
 ---
 **Goblin Bard**
 ![[Pasted image 20221209174723.png]]

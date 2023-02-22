@@ -1,6 +1,10 @@
 ---
 aliases: Avaaros Wolfwalker
-tags: PCs, TheNightKnights, TheBeanBois, Druid
+tags: 
+- PCs
+- TheNightKnights
+- TheBeanBois
+- Druid
 ---
 **Half-elven Druid**
 ![[Pasted image 20221209174552.png]]

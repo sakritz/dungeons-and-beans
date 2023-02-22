@@ -1,6 +1,11 @@
 ---
 aliases: 
-tags: PCs, TheNightKnights, TheBeanBois, Rogue
+tags:
+- PCs
+- TheNightKnights
+- TheBeanBois
+- Rogue
+- Assassin
 ---
 **Halfling Rogue Assassin**
 ![[Pasted image 20221209174539.png]]

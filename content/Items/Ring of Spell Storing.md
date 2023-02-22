@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: item, magical
+tags: 
+- item
+- magical
 wielder: Heilar
 ---
 

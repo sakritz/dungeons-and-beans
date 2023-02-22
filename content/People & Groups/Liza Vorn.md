@@ -1,6 +1,9 @@
 ---
 aliases: Liza
-tags: NPCs, Allies, Wolfsglenn
+tags: 
+- NPCs
+- Allies
+- Wolfsglenn
 role: Idle Master for the Changebringer's Temple
 ---
 

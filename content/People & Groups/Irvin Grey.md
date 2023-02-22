@@ -1,6 +1,8 @@
 ---
 aliases: Irvin
-tags: NPCs, Wolfsglenn
+tags: 
+- NPCs
+- Wolfsglenn
 role: Lumberjack
 ---
 

@@ -1,6 +1,8 @@
 ---
 aliases: Gila
-tags: NPCs, Wolfsglenn
+tags: 
+- NPCs
+- Wolfsglenn
 role: Pharmacist
 ---
 

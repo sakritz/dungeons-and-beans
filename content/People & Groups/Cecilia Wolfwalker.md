@@ -1,6 +1,9 @@
 ---
 aliases: Cecilia
-tags: NPCs, Druid, family
+tags: 
+- NPCs
+- Druid
+- family
 role: Healer, Mother of [[Avaaros Wolfwalker]]
 ---
 

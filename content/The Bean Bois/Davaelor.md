@@ -1,7 +1,12 @@
 ---
 aliases: 
-tags: PCs, TheNightKnights, TheBeanBois, Paladin
+tags: 
+- PCs
+- TheNightKnights
+- TheBeanBois
+- Paladin
 ---
+
 **Human Paladin**
 
 

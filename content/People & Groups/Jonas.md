@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: NPCs, Wolfsglenn
+tags: 
+- NPCs
+- Wolfsglenn
 role: Foreman of the Lumberjacks
 ---
 

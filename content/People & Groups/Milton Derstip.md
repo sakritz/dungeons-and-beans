@@ -1,6 +1,8 @@
 ---
 aliases: Milton
-tags: NPCs, Deastok
+tags: 
+- NPCs
+- Deastok
 role: owner of the [[Boar’s Head]]
 ---
 
