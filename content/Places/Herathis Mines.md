@@ -3,7 +3,7 @@ aliases:
 tags: places
 ---
 
-- huge platinum mines near [[Deastok]] 
+- huge platinum mines near [[Places/Deastok]] 
 
 ## Layout of the Mines
 
@@ -31,4 +31,4 @@ zoomDelta: 0.5
 
 ## Map of the Mines within the Dwendalian Empire
 
-![[Pasted image 20221216195930.png]]
+![[Stuff/Pasted image 20221216195930.png]]

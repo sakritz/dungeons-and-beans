@@ -6,5 +6,5 @@ tags:
 role: Lumberjack
 ---
 
-- Lumberjack in [[Lord Roseseeker]]'s employ
-- Went missing during an [[Ankhegs|Ankheg]] attack
+- Lumberjack in [[People & Groups/Lord Roseseeker]]'s employ
+- Went missing during an [[Monsters & Foes/Ankhegs|Ankheg]] attack

@@ -8,6 +8,6 @@ tags:
 
 ## Important Relations
 
-* Her brother [[Gormon]]
+* Her brother [[People & Groups/Gormon]]
 * Had a budding romance with [[The Bean Bois/Tia|Tia]]
 

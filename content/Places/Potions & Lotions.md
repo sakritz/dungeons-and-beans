@@ -7,7 +7,7 @@ tags:
 type: Potions & Ingredients
 ---
 
-- a potion store in [[Deastok]], kinda annoying vibe
+- a potion store in [[Places/Deastok]], kinda annoying vibe
 - owned by []
 
 ### Previous Experiences

@@ -8,4 +8,4 @@ role:
 - got sick because of the corrupted water
 
 ## Important Relations
-* Her father [[Oland Kelvaris]]
+* Her father [[People & Groups/Oland Kelvaris]]

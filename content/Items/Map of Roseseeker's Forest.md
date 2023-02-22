@@ -6,7 +6,7 @@ tags:
 wielder: Runa
 ---
 
-- A map of [[Lord Roseseeker]]'s forest given to us to find and kill the [[Ankhegs]]
+- A map of [[People & Groups/Lord Roseseeker]]'s forest given to us to find and kill the [[Monsters & Foes/Ankhegs]]
 
 ## Current Wielder
 - [[Runa]]
@@ -30,4 +30,4 @@ zoomDelta: 0.5
 
 ## Raw Map
 
-![[Pasted image 20230101112448.png]]
+![[Stuff/Pasted image 20230101112448.png]]

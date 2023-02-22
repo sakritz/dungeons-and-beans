@@ -9,7 +9,7 @@ tags: monster
 - gargantuan bird
 
 ## Appearances
-- Attacked us in our weird dream about the [[Herathis Mines]]
+- Attacked us in our weird dream about the [[Places/Herathis Mines]]
 
 ## Abilities
 - 

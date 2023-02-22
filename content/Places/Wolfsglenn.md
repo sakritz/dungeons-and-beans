@@ -24,7 +24,7 @@ zoomDelta: 0.5
 
 
 
-![[Pasted image 20221216195930.png]]
+![[Stuff/Pasted image 20221216195930.png]]
 
 ## Places and Shops
 

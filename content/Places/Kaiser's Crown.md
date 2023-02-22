@@ -7,7 +7,7 @@ tags:
 type: Inn
 ---
 
-- an inn in [[Deastok]], possibly shady
+- an inn in [[Places/Deastok]], possibly shady
 - owned by []
 
 ### Previous Experiences

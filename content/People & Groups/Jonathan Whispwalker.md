@@ -6,11 +6,11 @@ tags:
 role: Shopkeeper
 ---
 
--  owner of [[Spellbound]] in [[Deastok]]
+-  owner of [[Places/Spellbound]] in [[Places/Deastok]]
 
 ### Background
 -  looks like Santa Clause
-- asked us to retrieve his tools from [[Lionel Roseseeker]] in exchange for [[Keoghtom's Ointment]] 
+- asked us to retrieve his tools from [[People & Groups/Lionel Roseseeker]] in exchange for [[Items/Keoghtom's Ointment]] 
 
 ### Important Relations
--  his nephew [[Asher Whispwalker]] who also works at the shop
+-  his nephew [[People & Groups/Asher Whispwalker]] who also works at the shop

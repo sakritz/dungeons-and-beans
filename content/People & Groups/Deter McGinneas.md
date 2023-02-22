@@ -6,7 +6,7 @@ tags:
 role: starosta
 ---
 
--  starosta of [[Deastok]]
+-  starosta of [[Places/Deastok]]
 
 ### Background
 -  

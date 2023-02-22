@@ -11,7 +11,7 @@ tags:
 - a dressed tiger-like creature
 
 ## Appearances
--  came from the toads from the [[Bag of Beans]]
+-  came from the toads from the [[Items/Bag of Beans]]
 	- The creature says “I will remember that face” to Davelor and disappears
 
 ## Abilities

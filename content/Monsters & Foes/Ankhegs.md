@@ -3,7 +3,7 @@ aliases: Ankheg, Corrupted Ankeg, Corrupted Ankhegs, Ankheg Queen
 tags: monster
 ---
 
-![[638061096692582271.png |300]]
+![[638061096692582271.png | 300]]
 
 
 ## General Information
@@ -11,7 +11,7 @@ tags: monster
 - Live in swarms
 
 ## Appearances
-- Encountered in the [[Cyrengreen Forest]] near [[Wolfsglenn]]
+- Encountered in the [[Places/Cyrengreen Forest]] near [[Places/Wolfsglenn]]
 
 ## Abilities
 - Hunt by using pressure sense

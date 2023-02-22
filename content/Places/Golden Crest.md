@@ -7,7 +7,7 @@ tags:
 type: jewellery shop
 ---
 
-- a jewellery store in [[Deastok]]
+- a jewellery store in [[Places/Deastok]]
 - owned by ?
 
 ### Previous Experiences

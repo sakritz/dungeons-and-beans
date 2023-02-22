@@ -9,7 +9,7 @@ tags: monster
 - 
 
 ## Appearances
-- we fought them both in our dream and in reality in the [[Herathis Mines]] when they were summoned by the [[Aboleth]]?
+- we fought them both in our dream and in reality in the [[Places/Herathis Mines]] when they were summoned by the [[Monsters & Foes/Aboleth]]?
 
 ## Abilities
 - like to grapple and drown

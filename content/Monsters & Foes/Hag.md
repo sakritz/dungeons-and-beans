@@ -12,10 +12,10 @@ tags:
 - 
 
 ## Appearances
-- Encountered in the [[Cyrengreen Forest]] near [[Wolfsglenn]]
+- Encountered in the [[Places/Cyrengreen Forest]] near [[Places/Wolfsglenn]]
 
 ## Abilities
-- turned children into [[Flesh Golem]]s
+- turned children into [[Monsters & Foes/Flesh Golem]]s
 
 ## Weaknesses
 - 

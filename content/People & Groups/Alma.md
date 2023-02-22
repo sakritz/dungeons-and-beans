@@ -10,4 +10,4 @@ role: Daughter of [[Cleff Shorkrus]]
 - Her soul is not tethered to her body?
 
 ### Important Relations
-- Her father [[Cleff Shorkrus]]
+- Her father [[People & Groups/Cleff Shorkrus]]

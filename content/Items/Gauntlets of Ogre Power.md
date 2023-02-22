@@ -8,7 +8,7 @@ wielder: Ruby
 ---
 
 - Gauntlets that make their wielder pretty strong 
-- We found them in the [[Herathis Mines]]
+- We found them in the [[Places/Herathis Mines]]
 
 ## General Information
 Requires Attunement

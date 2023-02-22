@@ -7,8 +7,8 @@ tags:
 wielder: Avaaros
 ---
 
-- we got it from [[Jonathan Whispwalker]] for getting back his tools
-- it had two doses, we used one to heal [[The Bean Bois/Tia|Tia]] from the [[Aboleth]]'s disease
+- we got it from [[People & Groups/Jonathan Whispwalker]] for getting back his tools
+- it had two doses, we used one to heal [[The Bean Bois/Tia|Tia]] from the [[Monsters & Foes/Aboleth]]'s disease
 
 ## General Information
 This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.

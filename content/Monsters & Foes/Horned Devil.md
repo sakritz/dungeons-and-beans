@@ -17,4 +17,4 @@ tags: monster
 - 
 
 
-- came from the toads from the [[Bag of Beans]]
+- came from the toads from the [[Items/Bag of Beans]]

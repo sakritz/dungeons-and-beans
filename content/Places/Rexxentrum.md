@@ -5,7 +5,7 @@ tags: places
 
 
 ## General Information
--  the capital city of the [[Dwendalian Empire]]
+-  the capital city of the [[Places/Dwendalian Empire]]
 
 ## Map
 {insert image}

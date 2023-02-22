@@ -6,5 +6,5 @@ tags:
 type: Inn
 ---
 
-* Inn in [[Wolfsglenn]]
-* barkeeper is [[Melvin]]
+* Inn in [[Places/Wolfsglenn]]
+* barkeeper is [[People & Groups/Melvin]]

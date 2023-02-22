@@ -7,8 +7,8 @@ tags:
 type: Inn
 ---
 
-- an Inn in [[Deastok]]
-- owned by [[Milton Derstip]]
+- an Inn in [[Places/Deastok]]
+- owned by [[People & Groups/Milton Derstip]]
 
 ### Previous Experiences
--  we stayed there multiple times during the chase after [[Gormon]] and [[Cecilia Wolfwalker|Cecilia]]
+-  we stayed there multiple times during the chase after [[People & Groups/Gormon]] and [[People & Groups/Cecilia Wolfwalker|Cecilia]]

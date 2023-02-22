@@ -6,5 +6,5 @@ tags:
 role: Lumberjack
 ---
 
-- Lumberjack in [[Lord Roseseeker]]'s employ
-- Was attacked by [[Ankhegs]] and healed by [[Liza Vorn]]
+- Lumberjack in [[People & Groups/Lord Roseseeker]]'s employ
+- Was attacked by [[Monsters & Foes/Ankhegs]] and healed by [[People & Groups/Liza Vorn]]

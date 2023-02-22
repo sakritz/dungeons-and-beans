@@ -3,9 +3,9 @@ aliases:
 tags: places
 ---
 
-- large city in the [[Dwendalian Empire]]
+- large city in the [[Places/Dwendalian Empire]]
 - home of [[Runa]]
 
 
 
-![[Pasted image 20221216200924.png]]
+![[Stuff/Pasted image 20221216200924.png]]

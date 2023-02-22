@@ -8,4 +8,4 @@ tags: countries
 
 
 ### Important Relations
-- At war with the [[Kryn Dynasty]]
+- At war with the [[Places/Kryn Dynasty]]

@@ -6,7 +6,7 @@ tags:
 role: owner of the [[Boar’s Head]]
 ---
 
--  owner of the [[Boar’s Head]]
+-  owner of the [[Places/Boar’s Head]]
 
 ### Background
 -  

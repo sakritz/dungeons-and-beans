@@ -5,11 +5,11 @@ tags:
 - Zadash
 ---
 
-- Guild from [[Zadash]] 
+- Guild from [[Places/Zadash]] 
 - Consists of scholars, adventurers, explorers
 - For hire when things need to be found or researched
 
 ### Important Relations
-- [[Vorgal Telsteg]] was a member
-- comparable to the [[Cobalt Soul]] but more commercial
+- [[People & Groups/Vorgal Telsteg]] was a member
+- comparable to the [[People & Groups/Cobalt Soul]] but more commercial
 - 

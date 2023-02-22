@@ -9,7 +9,7 @@ tags: monster
 - 
 
 ## Appearances
-- in the [[Herathis Mines]]
+- in the [[Places/Herathis Mines]]
 
 ## Abilities
 - grapples

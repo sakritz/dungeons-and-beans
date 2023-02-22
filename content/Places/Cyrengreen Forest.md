@@ -4,7 +4,7 @@ tags:
 - places
 ---
 
-- Forest near [[Wolfsglenn]]
+- Forest near [[Places/Wolfsglenn]]
 
 
-![[Pasted image 20221216195930.png]]
+![[Stuff/Pasted image 20221216195930.png]]

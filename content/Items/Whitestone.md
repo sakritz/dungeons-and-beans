@@ -8,8 +8,8 @@ tags:
 wielder: Tia
 ---
 
-- Whitestone is a material that has special properties and is used to make [[Whitestone#Residuum]]
-- Also: A city in [[Tal’Dorei]] known for the stone with the same name 
+- Whitestone is a material that has special properties and is used to make [[Items/Whitestone#Residuum]]
+- Also: A city in [[Places/Tal’Dorei]] known for the stone with the same name 
 
 
 ### Residuum 

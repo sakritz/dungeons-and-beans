@@ -7,8 +7,8 @@ wielder: Runa, Avaaros, Davelor, Heilar
 ---
 
 
-- we found them in the [[Hag]]'s loot, and in our weird dream, and in the [[Herathis Mines]]
-- supposedly brewed by [[Cecilia Wolfwalker|Cecilia]] and [[Gormon]]
+- we found them in the [[Monsters & Foes/Hag]]'s loot, and in our weird dream, and in the [[Places/Herathis Mines]]
+- supposedly brewed by [[People & Groups/Cecilia Wolfwalker|Cecilia]] and [[People & Groups/Gormon]]
 
 ## General Information
 - 

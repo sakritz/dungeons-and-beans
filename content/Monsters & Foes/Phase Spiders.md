@@ -9,7 +9,7 @@ tags: monster
 - big-ass icy spiders
 
 ## Appearances
-- in the [[Herathis Mines]]
+- in the [[Places/Herathis Mines]]
 
 ## Abilities
 - can phase away after their turn - therefore difficult to hit unless you ready an action

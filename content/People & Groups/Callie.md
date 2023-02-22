@@ -12,5 +12,5 @@ role: Daughter of [Melvin](People%20&%20Groups/Melvin.md)
 - very smart and independent
 
 ### Important Relations
-- Her parents [[Melvin]] and
-- Taken by the [[Hag]] but freed by the Bean Bois
+- Her parents [[People & Groups/Melvin]] and
+- Taken by the [[Monsters & Foes/Hag]] but freed by the Bean Bois

@@ -7,7 +7,7 @@ tags:
 wielder: Avaaros
 ---
 
-- a bg that summons creatures we stole from [[Gormon]]'s hide-out in the woods
+- a bg that summons creatures we stole from [[People & Groups/Gormon]]'s hide-out in the woods
 
 ## General Information
 This ordinary bag, made from gray, **rust**, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.

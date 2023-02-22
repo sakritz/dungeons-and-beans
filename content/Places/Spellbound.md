@@ -8,7 +8,7 @@ tags:
 type: magic shop
 ---
 
-- a magic store in [[Deastok]]
+- a magic store in [[Places/Deastok]]
 - owned by []
 
 ### Previous Experiences

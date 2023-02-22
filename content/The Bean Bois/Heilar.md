@@ -12,5 +12,5 @@ tags:
 ## Important Relations
 
 * Adventuring with [[Asurak]], [[The Bean Bois/Avaaros]], [[The Bean Bois/Davaelor]], [[Reznak]], [[Ruby]], [[Runa]], and [[The Bean Bois/Tia]] and, newly also [[Sealion]]
-* Cleric of the [[Raven Queen]]
+* Cleric of the [[People & Groups/Raven Queen]]
 

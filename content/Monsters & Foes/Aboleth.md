@@ -14,13 +14,13 @@ tags:
 - they contaminate water in their vicinity
 
 ## Appearances
-- we fought it in the [[Herathis Mines]]
+- we fought it in the [[Places/Herathis Mines]]
 
 ## Important Relations
-* Controlled [[Gormon]] and  [[Cecilia Wolfwalker]]
+* Controlled [[People & Groups/Gormon]] and  [[People & Groups/Cecilia Wolfwalker]]
 * Called [[The Bean Bois/Davaelor]] a "traitor"
-* Might be associated with the [[Chainbreaker]]
-* Said something about the [[Raven Queen]] to [[The Bean Bois/Heilar]]
+* Might be associated with the [[Monsters & Foes/Chainbreaker]]
+* Said something about the [[People & Groups/Raven Queen]] to [[The Bean Bois/Heilar]]
  
 ## Abilities
 - can turn ethereal

@@ -5,13 +5,13 @@ tags:
 - Deastok
 ---
 
-- a city in the [[Dwendalian Empire]] near the [[Cyrengreen Forest]] and the [[Herathis Mines]]
+- a city in the [[Places/Dwendalian Empire]] near the [[Places/Cyrengreen Forest]] and the [[Places/Herathis Mines]]
 
 ### General Information
 - 
 
 ## Map
-![[Pasted image 20221216195930.png]]
+![[Stuff/Pasted image 20221216195930.png]]
 
 
 ### Places and Shops

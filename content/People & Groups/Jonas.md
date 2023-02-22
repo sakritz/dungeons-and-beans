@@ -6,4 +6,4 @@ tags:
 role: Foreman of the Lumberjacks
 ---
 
-- foreman of [[Lord Roseseeker]]'s lumberjacks
+- foreman of [[People & Groups/Lord Roseseeker]]'s lumberjacks

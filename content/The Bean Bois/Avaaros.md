@@ -11,7 +11,7 @@ tags:
 
 ## Background
 
-* He left his home after an argument with his mother, [[Cecilia Wolfwalker]], about how to save their forest
+* He left his home after an argument with his mother, [[People & Groups/Cecilia Wolfwalker]], about how to save their forest
 * His mother Cecilia went missing
 
 

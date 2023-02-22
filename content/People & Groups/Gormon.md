@@ -15,5 +15,5 @@ role:
 
 
 ## Important Relations
-* His sister, [[Syrja]]
-* Was controlled by the [[Aboleth]] and recruited by [[Cecilia Wolfwalker]] 
+* His sister, [[People & Groups/Syrja]]
+* Was controlled by the [[Monsters & Foes/Aboleth]] and recruited by [[People & Groups/Cecilia Wolfwalker]] 

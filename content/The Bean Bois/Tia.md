@@ -19,5 +19,5 @@ tags:
 ## Important Relations
 
 * Adventuring with [[Asurak]], [[The Bean Bois/Avaaros]], [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]], [[Reznak]], [[Ruby]], and [[Runa]], and, newly also [[Sealion]]
-* Had a budding romance with [[Syrja]] 
+* Had a budding romance with [[People & Groups/Syrja]] 
 

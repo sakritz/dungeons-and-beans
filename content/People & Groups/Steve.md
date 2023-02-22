@@ -7,4 +7,4 @@ tags:
 role: Guard
 ---
 
-- a nice guard in [[Lord Roseseeker]]'s employ
+- a nice guard in [[People & Groups/Lord Roseseeker]]'s employ

@@ -7,7 +7,7 @@ tags:
 wielder: Asurak
 ---
 
-- we bought the axe in [[Spellbound]] in [[Deastok]]
+- we bought the axe in [[Places/Spellbound]] in [[Places/Deastok]]
 
 ## General Information
 You gain a +1 bonus to Attack and Damage Rolls made with this Magic Weapon.

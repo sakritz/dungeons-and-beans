@@ -6,7 +6,7 @@ tags:
 role: Cleric of Bahamut
 ---
 
--  cleric in the [[Temple of Bahamut]] in [[Deastok]]
+-  cleric in the [[Temple of Bahamut]] in [[Places/Deastok]]
 
 ### Background
 -  

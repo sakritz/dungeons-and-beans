@@ -9,7 +9,7 @@ tags: monster
 - 
 
 ## Appearances
-- Encountered in the [[Cyrengreen Forest]] near [[Wolfsglenn]]
+- Encountered in the [[Places/Cyrengreen Forest]] near [[Places/Wolfsglenn]]
 
 ## Abilities
 - 

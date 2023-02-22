@@ -6,6 +6,6 @@ tags:
 role: Captain of the Crownsguard
 ---
 
-- Captain of the Crownsguard in [[Wolfsglenn]]
+- Captain of the Crownsguard in [[Places/Wolfsglenn]]
 - seems pretty nice and smart
 

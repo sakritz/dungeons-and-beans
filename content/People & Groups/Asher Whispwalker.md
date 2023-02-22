@@ -6,10 +6,10 @@ tags:
 role: Shopkeeper
 ---
 
--  works at [[Spellbound]] in [[Deastok]]
+-  works at [[Places/Spellbound]] in [[Places/Deastok]]
 
 ### Background
 -  
 
 ### Important Relations
--  is the nephew of [[Jonathan Whispwalker]]
+-  is the nephew of [[People & Groups/Jonathan Whispwalker]]

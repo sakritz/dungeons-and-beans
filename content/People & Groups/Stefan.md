@@ -6,8 +6,8 @@ tags:
 role: Butcher
 ---
 
-* the butcher of [[Wolfsglenn]]
-* his son, [[Sandit]] was taken and killed by the [[Hag]]
+* the butcher of [[Places/Wolfsglenn]]
+* his son, [[People & Groups/Sandit]] was taken and killed by the [[Monsters & Foes/Hag]]
 
 ### Important Relations
-- his son, [[Sandit]]
+- his son, [[People & Groups/Sandit]]

@@ -9,7 +9,7 @@ tags: monster
 - 
 
 ## Appearances
-- Encountered in the mine in [[Lord Roseseeker|Roseseeker]]'s woods in the [[Cyrengreen Forest]] near [[Wolfsglenn]]
+- Encountered in the mine in [[People & Groups/Lord Roseseeker|Roseseeker]]'s woods in the [[Places/Cyrengreen Forest]] near [[Places/Wolfsglenn]]
 
 ## Abilities
 - Can blind people by attaching to their heads

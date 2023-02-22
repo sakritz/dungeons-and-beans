@@ -13,13 +13,13 @@
 
 ### Meet the Parents
 - After a few words, the female elf, [[People & Groups/Ithil Caerdonel]], who declared that her husband is away talking to the village head, she leaves us to get the both of them
-- Returning with them,we meet [[Oland Kelvaris]], the village head – a tall elf with an Oaktree symbol on his belt buckle – and [[People & Groups/Haldir Caerdonel]], the woman’s husband
+- Returning with them,we meet [[People & Groups/Oland Kelvaris]], the village head – a tall elf with an Oaktree symbol on his belt buckle – and [[People & Groups/Haldir Caerdonel]], the woman’s husband
 - During introductions, Oland seems to recognize [[The Bean Bois/Avaaros|Avaaros]]’s name
 - Upon telling him why we came to the village and how we had to fight their undead people, he want to inspect the bodies themselves
 	- He identifies the drowned maiden as [[Silyana]], a druid, who vanished after heading out to find the source of the mysterious sickness
 	- He tells us that “these were not the only ones who weren’t feeling great lately”, many of their people have been sick for months
 	- They are suspecting the rivers as the source of the problem (there are three main rivers, two to the east and one to the west, which is supposed to be the problematic one)
-	- He explains that [[The Bean Bois/Avaaros|Avaaros]]’s mother [[Cecilia Wolfwalker|Cecilia]] was there to help but vanished. She acted weirdly erratic and didn’t seem to care about the sick people. Oland’s daughter [[Numbra Kelvaris]] (who is also sick) was the last to talk to her
+	- He explains that [[The Bean Bois/Avaaros|Avaaros]]’s mother [[People & Groups/Cecilia Wolfwalker|Cecilia]] was there to help but vanished. She acted weirdly erratic and didn’t seem to care about the sick people. Oland’s daughter [[People & Groups/Numbra Kelvaris]] (who is also sick) was the last to talk to her
 	- [[People & Groups/Isandra Caerdonel]], the daughter of Ithil and Haldir, is also sick, their older son has left to find a cure but hasn’t returned yet
 	- When [[Asurak]] mentions [[The Bean Bois/Heilar]]’s name, both Ithil and Haldir react strongly to it. They are his parents
 
@@ -30,22 +30,22 @@
 - Upon him entering, Oland takes the rest of the Night Knights away to meet Numbra, while Runa tries to disappear into another chamber to give the family some privacy
 
 ### The mysterious reappearing of [[The Bean Bois/Davaelor]]
-- Being taken to [[Numbra Kelvaris|Numbra]], the Night Knights to their own surprise also meet [[The Bean Bois/Davaelor]] who apparently had been fished out of the river (the potentially bad one) the night before 
+- Being taken to [[People & Groups/Numbra Kelvaris|Numbra]], the Night Knights to their own surprise also meet [[The Bean Bois/Davaelor]] who apparently had been fished out of the river (the potentially bad one) the night before 
 - He does not remember what he has been up to the past two days
-- At dinner, he tells the rest of the Night Knights that there is a god, the [[Chainbreaker]], who is talking to him since his first near-death experience (a voice in darkness) 
+- At dinner, he tells the rest of the Night Knights that there is a god, the [[Monsters & Foes/Chainbreaker]], who is talking to him since his first near-death experience (a voice in darkness) 
 	- They made a deal, the Chainbreaker wants his chains to be broken
 	- He is in chains because “the people do not understand his ways”
-- Trying to figure out what he did in the time he doesn’t have any memories about (if maybe the [[Chainbreaker]] is controlling him at that time), Runa tries to detect his thoughts but only sees darkness and is shoved out by something although [[The Bean Bois/Davaelor]] himself did not resist
-- If we want to do some research on the Chainbreaker, [[Lyra and Fhaonik Eillir]] have the most extensive library in the village
+- Trying to figure out what he did in the time he doesn’t have any memories about (if maybe the [[Monsters & Foes/Chainbreaker]] is controlling him at that time), Runa tries to detect his thoughts but only sees darkness and is shoved out by something although [[The Bean Bois/Davaelor]] himself did not resist
+- If we want to do some research on the Chainbreaker, [[People & Groups/Lyra and Fhaonik Eillir]] have the most extensive library in the village
 
 ### Magic Toads and Late Night Decisions
-- As [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]], and [[Runa]] are on their way to the city and Avaaros, Ruby and Tia have already headed in, [[Asurak]] decides to plant his [[Bag of Beans|magic bean]] in the ground and 12 pink toads appear
+- As [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]], and [[Runa]] are on their way to the city and Avaaros, Ruby and Tia have already headed in, [[Asurak]] decides to plant his [[Items/Bag of Beans|magic bean]] in the ground and 12 pink toads appear
 - Hearing the commotion, Davelor, Heilar, and Runa head back and see the toads
-- As Runa takes one of the into her hands, it transforms into a [[Horned Devil]] which is immediately killed by [[The Bean Bois/Heilar]] 
-- Touching another one, a [[Lamia]], a sphinx-like creature appears
+- As Runa takes one of the into her hands, it transforms into a [[Monsters & Foes/Horned Devil]] which is immediately killed by [[The Bean Bois/Heilar]] 
+- Touching another one, a [[Monsters & Foes/Lamia]], a sphinx-like creature appears
 	- While fighting it, [[Asurak]] is commanded to kill his companions and takes damage as he resists 
 	- After killing the creature, [[The Bean Bois/Heilar]] cures [[Asurak]] from that curse
-- Finally, [[The Bean Bois/Davaelor]] licks a toad and a dressed tiger-like creature, a [[Rakshasa]], appears
+- Finally, [[The Bean Bois/Davaelor]] licks a toad and a dressed tiger-like creature, a [[Monsters & Foes/Rakshasa]], appears
 	- He seems to be immune to all magic spells the companions have as well as most weapon damage
 	- He quickly overpowers Davelor, the only member of the party able to hurt him and the Night Knights (now involving also Avaaros and Tia) realize they don’t stand a chance and flee
 	- The creature says “I will remember that face” to Davelor and disappears

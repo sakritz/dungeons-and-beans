@@ -12,5 +12,5 @@ role: Rich
 -  
 
 ### Important Relations
-- ilegitimately kept [[Jonathan Whispwalker]]'s tools 
+- ilegitimately kept [[People & Groups/Jonathan Whispwalker]]'s tools 
 - 

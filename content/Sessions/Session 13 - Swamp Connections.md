@@ -2,11 +2,11 @@
 
 ### Tactical Decisions
 - Waking up the next morning, the Knight Nights discuss their next steps
-	- [[Lord Roseseeker|Roseseeker]] demanded all Ankhegs to be killed – so what would happen if Ankhegs showed up after we reported success?
+	- [[People & Groups/Lord Roseseeker|Roseseeker]] demanded all Ankhegs to be killed – so what would happen if Ankhegs showed up after we reported success?
 	- [[The Bean Bois/Avaaros|Avaaros]]’ objectives are to protect the mushroom people but also to get revenge (and ideally kill) Roseseeker
-	- Can we talk to [[Lord Roseseeker|Roseseeker]] and hide that we know about the [[Whitestone]]?
+	- Can we talk to [[People & Groups/Lord Roseseeker|Roseseeker]] and hide that we know about the [[Items/Whitestone]]?
 	- What is up with the corruption in the river?
-- Finally, we decide to first find out where the river and corruption are coming from and see if that helps in deciding what to do about [[Lord Roseseeker|Roseseeker]]
+- Finally, we decide to first find out where the river and corruption are coming from and see if that helps in deciding what to do about [[People & Groups/Lord Roseseeker|Roseseeker]]
 
 ### Upstream We Go
 - Apparently, [[The Bean Bois/Davaelor]] has wandered off during the night – seemingly on his own volition – in a northern direction
@@ -18,13 +18,13 @@
 
 ### Fuckin’ Lights
 - Trying to track the smell of the corrupted water, [[The Bean Bois/Avaaros|Avaaros]] in wolf-form wanders into the swamp and is attacked by something in the water
-	- We fight a [[Drowned Maiden]], her drowned companion and some [[Will-o'-Wisps]]
+	- We fight a [[Monsters & Foes/Drowned Maiden]], her drowned companion and some [[Will-o'-Wisps]]
 	- Drowned maiden grapples many people with her hairs
 	- All of them are resistant to non-magical damage
 	- [[Will-o'-Wisps]] reduce everyone to 0 hitpoints on a failed con-save
 - Finally, after a long struggle with several of the Night Knights going down, we manage to kill them
 - Going through the pockets of the drowned people, we see that the clothes seem of Elven make, in earth tones
-	- The [[Drowned Maiden]] seems to have been a druid, we find a stone statue that was her druidic focus
+	- The [[Monsters & Foes/Drowned Maiden]] seems to have been a druid, we find a stone statue that was her druidic focus
 	- She seems a little mutated/corrupted
 	- [[The Bean Bois/Heilar]] recognizes the two bodies as people from his village which is further north and promptly goes into shock
 

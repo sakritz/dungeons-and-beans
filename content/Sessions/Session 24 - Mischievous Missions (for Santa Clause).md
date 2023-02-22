@@ -1,31 +1,31 @@
 2022-12-22
 
 ### Making a Plan
-- the group gets rooms in the [[Boar’s Head]] in [[Deastok]] where [[The Bean Bois/Tia|Tia]] is placed in a bathtub
+- the group gets rooms in the [[Places/Boar’s Head]] in [[Places/Deastok]] where [[The Bean Bois/Tia|Tia]] is placed in a bathtub
 - [[The Bean Bois/Davaelor]], who is finally being himself again after the fight, says that he fell into darkness and felt suspended
-- [[Runa]] uses Detect Thoughts on [[Cecilia Wolfwalker|Cecilia]] to see if it is similar to [[The Bean Bois/Davaelor]]'s condition
-	- she sees loosely connected memories flying past: taking water out of a creek, tending to [[Gormon]], she also sees scenes from their common dream
+- [[Runa]] uses Detect Thoughts on [[People & Groups/Cecilia Wolfwalker|Cecilia]] to see if it is similar to [[The Bean Bois/Davaelor]]'s condition
+	- she sees loosely connected memories flying past: taking water out of a creek, tending to [[People & Groups/Gormon]], she also sees scenes from their common dream
 	- after that, there is not much more
 
 ### Let's Brew a Potion
-- we split up to get ingredients for [[Cecilia Wolfwalker|Cecilia]] to brew another [[Elixir of Health]] for [[The Bean Bois/Tia|Tia]] ([[Runa]] and [[The Bean Bois/Avaaros|Avaaros]]) and get information about the [[Chainbreaker]] and the [[Aboleth]] (the rest of the gang) while Cecilia, Tia, and Gormon stay at the inn
+- we split up to get ingredients for [[People & Groups/Cecilia Wolfwalker|Cecilia]] to brew another [[Items/Elixir of Health]] for [[The Bean Bois/Tia|Tia]] ([[Runa]] and [[The Bean Bois/Avaaros|Avaaros]]) and get information about the [[Monsters & Foes/Chainbreaker]] and the [[Monsters & Foes/Aboleth]] (the rest of the gang) while Cecilia, Tia, and Gormon stay at the inn
 - Runa and Avaaros try to find the ingredients needed
-	- [[Potions & Lotions 1]] does not have all of them, especially some Golden something is very rare and might only be available in [[Zadash]] and [[Rexxentrum]]
-	- in [[Spellbound]], we talk to [[Asher Whispwalker]] (the owner's nephew, a half-elf), they also don't have all the ingredients but might have a magical item with similar powers, we should come back later
-	- in [[Dungeon’s Delight]] we talk to the owner [[Henry]] who has an [[Elixir of Health]] for 5000 gold pieces. Since we are a bit short on the money, he offers us a somewhat shady deal in the "resource-management" business
-		- he hands us a card with the address of the [[Kaiser's Crown]] bar and says we should go there and order a "golden water" to get more information
-	- returning to [[Spellbound]] a bit later, the owner [[Jonathan Whispwalker]] (human, red coat, white beard) is present as well
-		- they have an [[Amulet of Health]] for 8000 gold pieces and [[Keoghtom's Ointment]] for 4000 gold pieces
+	- [[Potions & Lotions 1]] does not have all of them, especially some Golden something is very rare and might only be available in [[Places/Zadash]] and [[Places/Rexxentrum]]
+	- in [[Places/Spellbound]], we talk to [[People & Groups/Asher Whispwalker]] (the owner's nephew, a half-elf), they also don't have all the ingredients but might have a magical item with similar powers, we should come back later
+	- in [[Places/Dungeon’s Delight]] we talk to the owner [[People & Groups/Henry]] who has an [[Items/Elixir of Health]] for 5000 gold pieces. Since we are a bit short on the money, he offers us a somewhat shady deal in the "resource-management" business
+		- he hands us a card with the address of the [[Places/Kaiser's Crown]] bar and says we should go there and order a "golden water" to get more information
+	- returning to [[Places/Spellbound]] a bit later, the owner [[People & Groups/Jonathan Whispwalker]] (human, red coat, white beard) is present as well
+		- they have an [[Amulet of Health]] for 8000 gold pieces and [[Items/Keoghtom's Ointment]] for 4000 gold pieces
 		- he also offers us a deal to get the ointment
 			- he urgently needs a satchel of tools that was taken from him and is in the basement of a person with very high status, which is why the crownsguard doesn't help him
-			- [[Lionel Roseseeker]] is the one who took (or illegitimately kept) the tools after Jonathan installed an arcane locking mechanism for a box and some carved stone statues in his home and then accidentally left the tools there
+			- [[People & Groups/Lionel Roseseeker]] is the one who took (or illegitimately kept) the tools after Jonathan installed an arcane locking mechanism for a box and some carved stone statues in his home and then accidentally left the tools there
 			- the tools are in a dark red leather pouch with an emblem of the shop
 			- we can get a bonus if the bring back the tools within 24 hours
 
 ### Meanwhile in the Temple
-- [[Asurak]], [[The Bean Bois/Heilar]], [[Ruby]], [[Sealion]], and [[The Bean Bois/Davaelor]] head to the [[Temple of Bahamut]] to learn more about the [[Chainbreaker]]
-- they meet [[Indries Iselda]], an older human and the cleric on duty
-- he doesn't know anything about the [[Chainbreaker]] but tells them that the [[Arcane Gates]] prevent Gods from coming to the material plane
+- [[Asurak]], [[The Bean Bois/Heilar]], [[Ruby]], [[Sealion]], and [[The Bean Bois/Davaelor]] head to the [[Temple of Bahamut]] to learn more about the [[Monsters & Foes/Chainbreaker]]
+- they meet [[People & Groups/Indries Iselda]], an older human and the cleric on duty
+- he doesn't know anything about the [[Monsters & Foes/Chainbreaker]] but tells them that the [[Arcane Gates]] prevent Gods from coming to the material plane
 - [[The Bean Bois/Heilar]] prays with the cleric
 
 ### Scouting out another Roseseeker Manor

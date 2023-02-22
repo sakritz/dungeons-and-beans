@@ -7,7 +7,7 @@ tags:
 type: Inn
 ---
 
-- an Inn in [[Deastok]]
+- an Inn in [[Places/Deastok]]
 - owned by []
 
 ### Previous Experiences

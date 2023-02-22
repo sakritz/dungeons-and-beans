@@ -12,4 +12,4 @@ role: Idle Master for the Changebringer's Temple
 - follower of Avandra
 
 ### Important Relations
-* Hired [[Vorgal Telsteg]] to find the missing children
+* Hired [[People & Groups/Vorgal Telsteg]] to find the missing children

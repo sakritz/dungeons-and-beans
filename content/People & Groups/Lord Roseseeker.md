@@ -11,4 +11,4 @@ role: Noble, Wood-Business
 
 ### Important Relations
 * destroyed the forest [[The Bean Bois/Avaaros|Avaaros]] lived in
-* His right and left hand are [[Trent]] and [[Erama]]
+* His right and left hand are [[People & Groups/Trent]] and [[People & Groups/Erama]]

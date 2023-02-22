@@ -18,5 +18,5 @@ tags:
 
 * Adventuring with [[Asurak]], [[The Bean Bois/Avaaros]], [[The Bean Bois/Davaelor]], [[The Bean Bois/Heilar]], [[Ruby]], [[Runa]], and [[The Bean Bois/Tia]]
 * Brother of [[Dalee]]
-* Grew up in the same village as [[The Bean Bois/Heilar]], [[Syrja]] and [[Gormon]]
+* Grew up in the same village as [[The Bean Bois/Heilar]], [[People & Groups/Syrja]] and [[People & Groups/Gormon]]
 

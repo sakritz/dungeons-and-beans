@@ -7,9 +7,9 @@ tags:
 type: Tavern
 ---
 
-- a Tavern and Backery in [[Deastok]]
+- a Tavern and Backery in [[Places/Deastok]]
 - owned by ?
-- Has many miners from the [[Herathis Mines]] as patrons
+- Has many miners from the [[Places/Herathis Mines]] as patrons
 
 ### Previous Experiences
 -  

@@ -6,4 +6,4 @@ tags:
 role: Starosta
 ---
 
-- Starosta of [[Wolfsglenn]]
+- Starosta of [[Places/Wolfsglenn]]

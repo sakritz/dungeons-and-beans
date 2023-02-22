@@ -7,6 +7,6 @@ role: Pharmacist
 ---
 
 ### Important Relations
-- Good friend of [[Cecilia Wolfwalker]]
+- Good friend of [[People & Groups/Cecilia Wolfwalker]]
 - Threfore, also knows [[The Bean Bois/Avaaros|Avaaros]]
-- Killed by the [[Hag]] which took her form
+- Killed by the [[Monsters & Foes/Hag]] which took her form
