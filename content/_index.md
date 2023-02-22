@@ -1,27 +1,57 @@
 ---
-title: 🪴 Quartz 3.
+title: The Bean Bois Saga
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+# The Bean Bois
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+[[Asurak]]
+[[Avaaros Wolfwalker]]
+[[Davelor]]
+[[Heilar]]
+[[Reznak]]
+[[Ruby]]
+[[Runa]]
+[[Sealion]]
+[[Tia Thunderstep]]
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+# Session Overview
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+## Arc 1: Corruption Everywhere
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+[[Session 1 - Mysterious Shadow Murders]] 
+[[Session 2 - Where Have All the Children Gone]]
+[[Session 3 - Creepy Children Conundrum, Pt. 1]]
+[[Session 4 - Creepy Children Conundrum, Pt. 2]]
+[[Session 5 - Into the Woods]]
+[[Session 6 - Look, we Killed a Hag]]
+[[Session 7 - Still Something’s Amiss in Wolfsglenn]]
+[[Session 8 - We Knew Cleff Had Something To Do With It!]]
+[[Session 9 - Let's Fight Some Ankhegs]]
+[[Session 10 - Down, Down, and Further Down]]
+[[Session 11 - There is Whitestone at the Bottom of it All]]
+[[Session 12 - Corruption in the Ankheg Kingdom]]
+[[Session 13 - Swamp Connections]]
+[[Session 14 - Home, Weird Home]]
+[[Session 15 - Dream a Little Dream of Death]]
+[[Session 16 - The Lorekeepers' Son]]
+[[Session 17 - How to Lose Your Wizard]]
+[[Session 18 - Meet the Family]]
+[[Session 19 - Deastok Deeds and Misdeeds]]
+[[Session 20 - Into the Mines... Again]]
+[[Session 21 - Shit is Getting Weirder]]
+[[Session 22 - What the Hell Did We Just Fight]]
+[[Session 23 - Lost Souls]]
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+## Arc 2
+[[Session 24 - Mischievous Missions (for Santa Clause)]]
+[[Session 25 - Breaking & Entering for a Good C(l)ause]]
+...
+
+## Miscellaneous
+[[Open Questions and Quests]]
+[Inventory](Meta%20Stuff/Inventory.md)
+[Spells Overview](Meta%20Stuff/Spells%20Overview.md)
+[House Rules](Meta%20Stuff/House%20Rules.md)
 
