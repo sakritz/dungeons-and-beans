@@ -18,7 +18,7 @@
 - As [[Runa]] was taken away by [[Gormon]], a young wood-elven woman came running into the cemetery shouting to not hurt him: [[Syrja]], Gormon’s sister
 	- She explains that she was following her brother because he had been acting weird for a couple of months
 	- He had that mystery sickness but got medicine from a women ([[Cecilia Wolfwalker|Cecilia]]?!) after which he got better but started acting weird
-- They also have another sister, [[Enren EIllir]], who is sick 
+- They also have another sister, [[People & Groups/Enren Eillir]], who is sick 
 - Syrja also says that she saw her brother bathing in the river
 - Taking Syrja with them, the group uses a Locate spell to find and free [[Runa]] from the cellar
 - The group then decides to go back to the Eilirs’ place and inspect [[Gormon]]’s room
@@ -27,7 +27,7 @@
 - Back at the Eilirs’ house, [[Ruby]]finds boots that seem to once have been magic in a locked box and a ledger with scribbled notes in a locked drawer
 	- [[Runa]] and [[Avaaros Wolfwalker|Avaaros]] notice that the notes have both [[Gormon]]’s and [[Cecilia Wolfwalker|Cecilia]]’s handwriting
 - Borrowing a pearl from [[Syrja]], [[Runa]] identifies the mysterious potions as [[Potion of Water Breathing]] and the fuzzy balls as a [[Bag of Tricks]] that can be used to summon animals 
-- [[Avaaros Wolfwalker|Avaaros]] and [[Heilar]] meanwhile talk to [[Enren EIllir|Enren]], the sick sister, and hear again that Gormon changed a lot after being sick. Enren also says that he was talking in his sleep in agony the night after he got the medicine
+- [[Avaaros Wolfwalker|Avaaros]] and [[Heilar]] meanwhile talk to [[People & Groups/Enren Eillir|Enren]], the sick sister, and hear again that Gormon changed a lot after being sick. Enren also says that he was talking in his sleep in agony the night after he got the medicine
 - Demonstrating the bag of tricks, Runa summons a giant goat into the house
 - Runa also reads up on the [[Herathis Mines]]'' history and mine equipment and finds out that the starosta of [[Deastok]], [[Deter McGinneas]], is responsible for the mines
 
