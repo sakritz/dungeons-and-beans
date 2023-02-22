@@ -1,6 +1,6 @@
 ---
-title: The Bean Bois Saga
-enableToc: false
+title: "The Bean Bois Saga"
+enableToc: true
 ---
 
 # The Bean Bois

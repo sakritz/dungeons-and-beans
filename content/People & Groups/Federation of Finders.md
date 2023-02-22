@@ -1,3 +1,7 @@
+---
+aliases: 
+tags: organizations, Zadash
+---
 
 - Guild from [[Zadash]] 
 - Consists of scholars, adventurers, explorers

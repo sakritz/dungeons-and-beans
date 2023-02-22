@@ -1,7 +1,7 @@
 ---
 aliases: Enren
 tags: NPCs
-role: [[Gormon]] and [[Syrja]]'s sister
+role: [[Gormon]] and [[Syrja]]s sister
 ---
 
 -  
